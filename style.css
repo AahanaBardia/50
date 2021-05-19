@@ -1,0 +1,32 @@
+h2{
+    color:whitesmoke;
+}
+
+.header{
+    background-color:black;
+    display:flex;
+    justify-content: space-between;
+}
+
+.instructions{
+    background-color:slategray;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.sub{
+    border-width: 20px;
+    background-color: white;
+
+    width:310px;
+    font-family: fantasy;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
